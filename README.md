@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+日本語化されていないWindows用フリーソフトの日本語化のお手伝いを少しでもできればと思い、GitHub アカウント作成しました。
+
 <!--
 **nihongo-helper0119/nihongo-helper0119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
