@@ -49,10 +49,10 @@ I'm currently organizing my blog posts to keep them up-to-date for **Windows 11*
 My blog posts and localizations are tested across multiple environments to ensure stability.
 (ブログ記事や翻訳の検証は、安定性を確保するため複数の実機環境で行っています。)
 
-* **Main / Gaming / AI:** Core i7-12700 + RTX 4070 Ti (Storage: 2TB x 4 SSD)
-* **Work / Writing:** Core i5-13500 (Storage: 2TB x 4 SSD)
-* **Lab / Mini PC:** AMD Ryzen 7 7840HS
-* **Sub / Emergency:** Intel Core i3-N305
+* **Main / Gaming / AI:** Core i7-12700 + 96GB + RTX 4070 Ti (Storage: 2TB x 4 SSD)
+* **Work / Writing:** Core i5-13500 + 128 GB (Storage: 2TB x 4 SSD)
+* **Lab / Mini PC:** AMD Ryzen 7 7840HS + 32 GB
+* **Sub / Emergency:** Intel Core i3-N305 + 16GB 
 
 (・∀・) Let's make the software world better together!
 <!--
