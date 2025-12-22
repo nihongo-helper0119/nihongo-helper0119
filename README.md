@@ -52,7 +52,7 @@ My blog posts and localizations are tested across multiple environments to ensur
 (ブログ記事や翻訳の検証は、安定性を確保するため複数の実機環境で行っています。)
 
 ### Hardware Specs
-
+"Built for long-term stability and zero-maintenance overhead." （長期的な安定性と、メンテナンスの手間を最小化するために構築されています。）
 * **Main / Gaming / AI**
     * **CPU:** Intel Core i7-12700
     * **RAM:** 96GB (32GB + 64GB Upgraded)
