@@ -21,7 +21,7 @@ I started this account to support great developers?both globally and locally in 
 * **NirSoft / Vovsoft:** Provided Japanese translation files for various utilities.
   (未翻訳だったツールなどの日本語化ファイルを提供しました。)
 * **Game Backup Monitor:** Contributed to the Japanese localization because I'm a big fan of gaming!
-  (ゲーム好きが高じて、日本語化に関わらせていただきました。)
+  (ゲーム好きがこうて、日本語化に関わらせていただきました。)
 
 ---
 
