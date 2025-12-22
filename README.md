@@ -1,4 +1,4 @@
-# Hi there! I'm nihongo-helper0119 ?? 👋
+# Hi there! I'm nihongo-helper0119 👋
 
 I'm a Japanese Software Engineer. I enjoy finding useful tools and web services and sharing them on my blog.
 (日本のSEです。便利なツールやWebサービスを見つけてブログで紹介しています。)
