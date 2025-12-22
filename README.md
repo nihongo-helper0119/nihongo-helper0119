@@ -49,13 +49,27 @@ I'm currently organizing my blog posts to keep them up-to-date for **Windows 11*
 My blog posts and localizations are tested across multiple environments to ensure stability.
 (ブログ記事や翻訳の検証は、安定性を確保するため複数の実機環境で行っています。)
 
-* **Main / Gaming / AI:** Core i7-12700 + 96GB + RTX 4070 Ti (Storage: 2TB x 4 SSD)
-* **Work / Writing:** Core i5-13500 + 128 GB (Storage: 2TB x 4 SSD)
-* **Upgraded in 2024 for high-speed RAM disk & heavy multitasking.
-* **Lab / Mini PC:** AMD Ryzen 7 7840HS + 32 GB
-* **Sub / Emergency:** Intel Core i3-N305 + 16GB 
-
 (・∀・) Let's make the software world better together!
+
+### Hardware Specs
+
+* **Main / Gaming / AI**
+    * **CPU:** Intel Core i7-12700
+    * **RAM:** 96GB (32GB + 64GB Upgraded)
+    * **GPU:** NVIDIA GeForce RTX 4070 Ti
+    * **Storage:** 8TB (2TB x 4 SSD)
+* **Work / Writing**
+    * **CPU:** Intel Core i5-13500
+    * **RAM:** 128GB (Optimized for RAM Disk & Multitasking)
+    * **Storage:** 8TB (2TB x 4 SSD)
+* **Lab / Mini PC:** AMD Ryzen 7 7840HS + 32GB
+* **Sub / Emergency:** Intel Core i3-N305 + 16GB
+
+### Software & Development
+Projects are developed and verified using the latest tools to guarantee compatibility.
+
+* **IDE:** Visual Studio 2022 / 2026
+
 <!--
 **nihongo-helper0119/nihongo-helper0119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
