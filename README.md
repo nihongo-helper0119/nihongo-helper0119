@@ -36,8 +36,8 @@ I’m always happy to support developers?whether it’s Japanese localization fo
 - **Contact:** Please feel free to open an Issue in this repository.
   (このリポジトリのIssueからお気軽にお声がけください。)
 
-(・∀・)
 ---
+(・∀・) Let's make the software world better together!
 
 ## My Blog (ブログ)
 I'm currently organizing my blog posts to keep them up-to-date for **Windows 11**. 
@@ -50,8 +50,6 @@ URL:https://www.hiskip.com/free/
 ## Testing Environment (検証環境)
 My blog posts and localizations are tested across multiple environments to ensure stability.
 (ブログ記事や翻訳の検証は、安定性を確保するため複数の実機環境で行っています。)
-
-(・∀・) Let's make the software world better together!
 
 ### Hardware Specs
 
