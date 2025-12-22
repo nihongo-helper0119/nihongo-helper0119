@@ -40,9 +40,11 @@ I’m always happy to support developers?whether it’s Japanese localization fo
 ---
 
 ## My Blog (ブログ)
-I'm currently organizing my blog posts to keep them up-to-date for **Windows 11**.
-(現在、Windows 11で快適に使えるソフトを中心に、ブログ記事の整理・更新を行っています。)
+I'm currently organizing my blog posts to keep them up-to-date for **Windows 11**. 
+The blog is built on a **WordPress Multisite (Directory-based)** network, optimized for high performance and complex structure management.
+(現在、Windows 11で快適に使えるソフトを中心に、ブログ記事の整理・更新を行っています。ブログはマニアックな**WordPressマルチサイト（ディレクトリ型）**で構築・運用しており、複雑な構成の最適化を楽しんでいます。)
 
+URL:https://www.hiskip.com/free/
 ---
 
 ## Testing Environment (検証環境)
