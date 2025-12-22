@@ -51,6 +51,7 @@ My blog posts and localizations are tested across multiple environments to ensur
 
 * **Main / Gaming / AI:** Core i7-12700 + 96GB + RTX 4070 Ti (Storage: 2TB x 4 SSD)
 * **Work / Writing:** Core i5-13500 + 128 GB (Storage: 2TB x 4 SSD)
+* **Upgraded in 2024 for high-speed RAM disk & heavy multitasking.
 * **Lab / Mini PC:** AMD Ryzen 7 7840HS + 32 GB
 * **Sub / Emergency:** Intel Core i3-N305 + 16GB 
 
