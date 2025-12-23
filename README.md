@@ -1,12 +1,51 @@
 # Hi there! I'm nihongo-helper0119 👋
 
-I'm a Japanese Software Engineer. I enjoy finding useful tools and web services and sharing them on my blog.
-(日本のSEです。便利なツールやWebサービスを見つけてブログで紹介しています。)
+# 👋 Hi, I'm [Your Name / Site Name]
 
-**Why I started this GitHub account:**
-I started this account to support great developers?both globally and locally in Japan. I want to help bring their software to users with accurate and natural communication.
-(素晴らしい開発者の方々を応援したくて、このアカウントを作りました。海外ソフトはもちろん、国内の開発者さんの活動も全力で応援し、より良い形でユーザーに届けるお手伝いがしたいと考えています。)
+I'm a Japanese Software Engineer who loves discovering handy tools, web services, and exploring various hobbies.
 
+### 🚀 What I'm Doing Now (English)
+I have been managing my personal website for **24 years (Since 2001)**. 
+Over two decades, I’ve shared a huge variety of posts—from tech tips to daily life and hobbies. Right now, I'm working on a big "spring cleaning" of my blog, sorting through 10,000+ past entries. I’m slimming them down to keep only the best content, ensuring tech-related posts are updated for Windows 11. My site runs on a **WordPress Multisite** setup to keep my diverse interests well-organized.
+
+I love supporting great developers! Having written over **600 detailed guides** for various free software, I can provide practical feedback based on my extensive experience. If you have a cool app, I’d be happy to share it with my readers in a natural, honest way.
+
+- **Global Developers:** Happy to give feedback on Japanese localization or write a friendly review for Japanese users.
+- **Domestic (Japanese) Developers:** I want to help local apps shine and stand up against suspicious mirror sites!
+
+---
+
+### 🚀 最近の活動 (Japanese)
+日本のソフトウェアエンジニアです。便利なツールやWebサービスを探すこと、色々な趣味を楽しむことが大好きです。
+
+**2001年から24年間**、細々と個人サイトを続けてきました。
+この24年で積み重なった1万記事以上のコンテンツ（技術ネタから趣味、日々の雑記まで）を整理する「大掃除（断捨離）」を**進めています**。古い情報を整理しつつ、IT関連記事についてはWindows 11環境でも役立つようリマスター中です。サイトは **WordPressマルチサイト** を活用し、多種多様なジャンルを自分なりに整理して運営しています。
+
+素晴らしいアプリを作っている開発者さんを応援するのが私の楽しみです。これまで**600本以上のフリーソフト紹介・使い方記事**を書いてきた経験を活かし、ユーザー視点でのフィードバックも可能です。怪しいミラーサイトではなく、一人のユーザーとして、正確で自然な紹介記事を届けていきたいと思っています。
+
+- **海外開発者の皆様へ:** 日本語化のアドバイスや、ブログでの等身大なレビュー記事の作成など。
+- **国内開発者の皆様へ:** 素晴らしい国産アプリがもっと注目されるよう、微力ながらお手伝いさせてください！
+---
+
+フリーソフト使い方用サブサイトURL：
+URL:https://www.hiskip.com/free/
+
+---
+### 🎨 ゆる募 / Seeking an Illustrator
+**サイトリニューアルに向けて、専属の絵師さんをゆる募しています～！(・∀・)**
+24年モノの老舗ドメインに、新しい彩りを添えてくれる方を探しています。もし興味があれば、お気軽にIssue等で声をかけていただけると嬉しいです！
+
+---
+
+### 🔍 What I Like / 好きなもの
+Handy utilities, gaming tools, AI apps, and various creative hobbies!
+（便利なツール、ゲーム関連、AI、そして人生を豊かにする色々な趣味が大好きです！）
+
+### 📧 Contact / お問い合わせ
+Please feel free to **open an Issue** in this repository. 
+（このリポジトリの **Issue** までお気軽にご連絡ください！）
+
+**Let's bring great software to the world together! (・∀・)ｖ**
 ---
 
 ## Localization Support (日本語化サポート)
@@ -22,30 +61,6 @@ I started this account to support great developers?both globally and locally in 
   (未翻訳だったツールなどの日本語化ファイルを提供しました。)
 * **Game Backup Monitor:** Contributed to the Japanese localization because I'm a big fan of gaming!
   (ゲーム好きがこうじて、日本語化に関わらせていただきました。)
-
----
-
-## Open to Help (開発者の方へ)
-I’m always happy to support developers?whether it’s Japanese localization for global tools or promoting great Japanese apps!
-(ジャンルを問わず、便利なツールやサービスの応援・お手伝いが大好きです。)
-
-- **What I like:** Handy utilities, gaming tools, AI apps, and web services. If it’s something that makes life or work easier, I’m in!
-  (便利なユーティリティからゲーム関連、AIアプリ、Webサービスまで。ジャンルを問わず「これ便利だな！」と思えるものは何でも歓迎です。)
-- **To Domestic Developers:** I'm also eager to support Japanese developers. Let's make the Japanese software scene more exciting together!
-  (国内の開発者さんもぜひ応援させてください！日本のソフト界隈を一緒に盛り上げましょう！)
-- **Contact:** Please feel free to open an Issue in this repository.
-  (このリポジトリのIssueからお気軽にお声がけください。)
-
----
-(・∀・) Let's make the software world better together!
-
-## My Blog (ブログ)
-I'm currently organizing my blog posts to keep them up-to-date for **Windows 11**. 
-The blog is built on a **WordPress Multisite (Directory-based)** network, optimized for high performance and complex structure management.
-(現在、Windows 11で快適に使えるソフトを中心に、ブログ記事の整理・更新を行っています。ブログはマニアックな**WordPressマルチサイト（ディレクトリ型）**で構築・運用しており、複雑な構成の最適化を楽しんでいます。)
-
----
-URL:https://www.hiskip.com/free/
 
 ## Testing Environment (検証環境)
 My blog posts and localizations are tested across multiple environments to ensure stability.
