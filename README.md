@@ -1,7 +1,5 @@
 # Hi there! I'm nihongo-helper0119 👋
 
-# 👋 Hi, I'm [Your Name / Site Name]
-
 I'm a Japanese Software Engineer who loves discovering handy tools, web services, and exploring various hobbies.
 
 ### 🚀 What I'm Doing Now (English)
