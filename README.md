@@ -59,6 +59,7 @@ Please feel free to **open an Issue** in this repository.
   (未翻訳だったツールなどの日本語化ファイルを提供しました。)
 * **Game Backup Monitor:** Contributed to the Japanese localization because I'm a big fan of gaming!
   (ゲーム好きがこうじて、日本語化に関わらせていただきました。)
+* **Icaros Shell Extensions:** Updated the untranslated sections.
 
 ## Testing Environment (検証環境)
 My blog posts and localizations are tested across multiple environments to ensure stability.
