@@ -60,6 +60,7 @@ Please feel free to **open an Issue** in this repository.
 * **Game Backup Monitor:** Contributed to the Japanese localization because I'm a big fan of gaming!
   (ゲーム好きがこうじて、日本語化に関わらせていただきました。)
 * **Icaros Shell Extensions:** Updated the untranslated sections.
+* **PeaZip v11.0:** Updated the untranslated sections.
 
 ## Testing Environment (検証環境)
 My blog posts and localizations are tested across multiple environments to ensure stability.
