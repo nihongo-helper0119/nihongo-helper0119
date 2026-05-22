@@ -28,6 +28,19 @@ I love supporting great developers! Having written over **600 detailed guides** 
 フリーソフト使い方用サブサイトURL：
 URL:https://www.hiskip.com/free/
 
+## 🛠️ Web Tools I've Built / 開発したツール
+
+I design and develop lightweight, browser-based tools focusing on data coverage and high privacy. No installation required.
+
+- **[Image Viewer Finder / 画像ビューアー 一発判定ツール](https://www.hiskip.com/software-database/viewer-matrix.html)** 🔍
+  - Instantly filters and finds the best freeware (like XnView MP) to open any specific or rare image extension (WebP, AVIF, HEIC, RAW, DICOM, etc.).
+  - 100% privacy-focused: All search queries are processed locally in your browser.
+  - あらゆる画像拡張子を「今すぐ開けるフリーソフト」を1秒で検索・判定するデータベースツール（ブラウザ完結・プライバシー安全設計）。
+
+- **[Image Format Converter / 画像形式 変換ツール](https://www.hiskip.com/software-database/format-converter-navi.html)** 🔄
+  - A comprehensive matrix-driven converter to batch-convert various image formats seamlessly.
+  - あらゆる画像フォーマットを相互にコンバートする、データ網羅型の一発変換システム。
+    
 ---
 ### 🎨 ゆる募 / Seeking an Illustrator
 **サイトリニューアルに向けて、専属の絵師さんをゆる募しています～！(・∀・)**
