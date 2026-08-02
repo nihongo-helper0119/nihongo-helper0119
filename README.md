@@ -31,13 +31,21 @@ URL:https://www.hiskip.com/free/
 ## 🛠️ Web Tools I've Built / 開発したツール
 
 I design and develop lightweight, browser-based tools focusing on data coverage and high privacy. No installation required.
+- **[カスタム検索ツールポータル](https://www.hiskip.com/search/index.html)** 🔍
+  - ブログで紹介している800本を超えるフリーソフトから目的に合わせて一瞬で最適解を見つけるための 10 本のカスタム検索ツール群のポータルページ。
 
-- **[Image Viewer Finder / 画像ビューアー 一発判定ツール](https://www.hiskip.com/software-database/viewer-matrix.html)** 🔍
+- **[フリーソフト爆速検索ツール](https://www.hiskip.com/search/freeware-search.html)** 🔍
+  - ブログに掲載しているおすすめソフト800本以上をカテゴリーやキーワードから一瞬で一本釣りできるカタログ検索ツール。
+
+- **[Windowsツールナビ](https://www.hiskip.com/search/freeware-search.html)** 🔍
+  - PCの画面・音・ゲーム環境などのさまざまな目的から最適なWindowsフリーソフトを一瞬で検索できる。爆速検索では分かりにくい方向けにナビ形式UI。
+
+- **[Image Viewer Finder / 画像ビューアー 一発判定ツール](https://www.hiskip.com/search/viewer-matrix.html)** 🔍
   - Instantly filters and finds the best freeware (like XnView MP) to open any specific or rare image extension (WebP, AVIF, HEIC, RAW, DICOM, etc.).
   - 100% privacy-focused: All search queries are processed locally in your browser.
   - あらゆる画像拡張子を「今すぐ開けるフリーソフト」を1秒で検索・判定するデータベースツール（ブラウザ完結・プライバシー安全設計）。
 
-- **[Image Format Converter / 画像形式 変換ツール](https://www.hiskip.com/software-database/format-converter-navi.html)** 🔄
+- **[Image Format Converter / 画像形式 変換ツール](https://www.hiskip.com/search/format-converter-navi.html)** 🔄
   - A comprehensive matrix-driven converter to batch-convert various image formats seamlessly.
   - あらゆる画像フォーマットを相互にコンバートする、データ網羅型の一発変換システム。
     
