@@ -48,7 +48,25 @@ I design and develop lightweight, browser-based tools focusing on data coverage 
 - **[Image Format Converter / 画像形式 変換ツール](https://www.hiskip.com/search/format-converter-navi.html)** 🔄
   - A comprehensive matrix-driven converter to batch-convert various image formats seamlessly.
   - あらゆる画像フォーマットを相互にコンバートする、データ網羅型の一発変換システム。
-    
+
+- **[画像・写真編集ソフト検索](https://www.hiskip.com/search/image-photo-editors.html)** 🔍
+  - 入力・出力の拡張子を指定するだけで、目的（RAW現像、レイヤー編集、一括変換など）に合った画像・写真編集フリーソフトを一瞬で検索・比較できる。
+
+- **[スクショ・画面録画ツール検索](https://www.hiskip.com/search/screenshot-tools.html)** 🔍
+  - スクショ・画面録画ツールを比較・検索できる。保存フォーマット（PNG, MP4, WebMなど）やキャプチャ範囲、自動撮影などの機能から最適なツールを即座に絞り込める。
+
+- **[ベンチマークツール検索](https://www.hiskip.com/search/benchmark-tools.html)** 🔍
+  - Windows用の各種ベンチマークソフト（CPU, GPU, RAM, VRAM, ストレージ, AI）を目的や機能別に一瞬で探せる。
+
+- **[連打ツール・自動クリック検索](https://www.hiskip.com/search/mouse-renda-tools.html)** 🔍
+  - 【Windows用】マウスの左クリック特化、マウス全般、キーボード連打ツールを機能や目的別に一瞬で検索・比較できる。
+
+- **[音楽タグエディタ検索](https://www.hiskip.com/search/tag-editors.html)** 🔍
+  - MP3、FLAC、M4Aなど、編集したい音楽ファイルの拡張子から最適な音楽タグエディタを一瞬で検索・比較できる。
+
+- **[PDF関連ソフト検索](https://www.hiskip.com/search/pdf-tools.html)** 🔍
+  - PDFの結合・分割・圧縮・画像抽出など、目的に合ったPDFフリーソフトを機能別ラベルで一瞬で検索・比較できる。
+
 ---
 ### 🎨 ゆる募 / Seeking an Illustrator
 **サイトリニューアルに向けて、専属の絵師さんをゆる募しています～！(・∀・)**
