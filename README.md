@@ -67,6 +67,9 @@ I design and develop lightweight, browser-based tools focusing on data coverage 
 - **[PDF関連ソフト検索](https://www.hiskip.com/search/pdf-tools.html)** 🔍
   - PDFの結合・分割・圧縮・画像抽出など、目的に合ったPDFフリーソフトを機能別ラベルで一瞬で検索・比較できる。
 
+- **[ミルクティー大図鑑](https://www.hiskip.com/zukan/milktea-search.html)** 🔍
+  - 飲んだり食べたりした主にミルクティー系商品の記録＆検索できる！（趣味と実益を兼ねました）
+
 ---
 ### 🎨 ゆる募 / Seeking an Illustrator
 **サイトリニューアルに向けて、専属の絵師さんをゆる募しています～！(・∀・)**
