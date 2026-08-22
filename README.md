@@ -1,3 +1,7 @@
+※注意喚起※
+怪しい儲け話をメールで持ちかけてくるケースがありました。
+無視しても何度なく送ってくるので、ご注意ください。
+
 # Hi there! I'm nihongo-helper0119 👋
 
 I'm a Japanese Software Engineer who loves discovering handy tools, web services, and exploring various hobbies.
